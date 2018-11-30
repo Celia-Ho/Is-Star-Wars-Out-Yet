@@ -7,7 +7,7 @@ The user can also select an episode number from the drop-down menu to check if t
 
 ## Deployment on Heroku
 
-Check it out in live action [here]().
+Check it out in live action [here](https://fierce-shore-24119.herokuapp.com/).
 
 
 ## Tools/languages used:  
